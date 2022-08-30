@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Cloud/auth",
+  "id": "Cloud/auth",
+  "title": "Cloud Authentication",
+  "description": "Google Cloud Platform",
+  "source": "@site/docs/Cloud/auth.md",
+  "sourceDirName": "Cloud",
+  "slug": "/Cloud/auth",
+  "permalink": "/Cloud/auth",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Cloud",
+    "permalink": "/Cloud/"
+  },
+  "next": {
+    "title": "Custom Images for Runner",
+    "permalink": "/Cloud/custom_images"
+  }
+}

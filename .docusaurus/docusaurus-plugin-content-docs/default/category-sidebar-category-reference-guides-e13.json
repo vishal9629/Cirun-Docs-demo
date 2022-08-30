@@ -1,0 +1,19 @@
+{
+  "title": "Reference",
+  "description": "Nitty-gritty technical descriptions of how Nebari works. ",
+  "keywords": [
+    "Reference"
+  ],
+  "slug": "category/Reference",
+  "permalink": "/category/Reference",
+  "navigation": {
+    "previous": {
+      "title": "Welcome to Nebari's documentation",
+      "permalink": "/"
+    },
+    "next": {
+      "title": "Cirun configuration",
+      "permalink": "/Reference/installing-nebari"
+    }
+  }
+}

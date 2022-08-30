@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Reference/deploy",
+  "id": "Reference/deploy",
+  "title": "Choosing a deployment platform",
+  "description": "Nebari can be deployed on a bare-metal server using HPC, any of the major public cloud providers, or on a pre-existing Kubernetes cluster.",
+  "source": "@site/docs/Reference/fackback_runners.mdx",
+  "sourceDirName": "Reference",
+  "slug": "/Reference/deploy",
+  "permalink": "/Reference/deploy",
+  "draft": false,
+  "editUrl": "https://github.com/nebari-dev/nebari/tree/main/docs/docs/Reference/fackback_runners.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "deploy"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Cirun configuration",
+    "permalink": "/Reference/installing-nebari"
+  },
+  "next": {
+    "title": "Supported Cloud Providers",
+    "permalink": "/Reference/cloud-providers"
+  }
+}

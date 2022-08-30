@@ -1,0 +1,18 @@
+{
+  "title": "Reference",
+  "keywords": [
+    "Reference"
+  ],
+  "slug": "category/Reference",
+  "permalink": "/category/Reference",
+  "navigation": {
+    "previous": {
+      "title": "Welcome to Cirun's documentation",
+      "permalink": "/"
+    },
+    "next": {
+      "title": "Cirun configuration",
+      "permalink": "/Reference/yaml"
+    }
+  }
+}

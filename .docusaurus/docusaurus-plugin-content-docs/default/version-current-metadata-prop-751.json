@@ -1,0 +1,169 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "sidebar": [
+      {
+        "type": "link",
+        "label": "Quickstart",
+        "href": "/",
+        "docId": "Quickstart"
+      },
+      {
+        "type": "category",
+        "label": "Reference",
+        "items": [
+          {
+            "type": "link",
+            "label": "Cirun configuration",
+            "href": "/Reference/yaml",
+            "docId": "Reference/yaml"
+          },
+          {
+            "type": "link",
+            "label": "Fallback Runners in case of unavailability",
+            "href": "/Reference/Fallback",
+            "docId": "Reference/Fallback"
+          },
+          {
+            "type": "link",
+            "label": "Cirun.yml Examples",
+            "href": "/Reference/examples",
+            "docId": "Reference/examples"
+          },
+          {
+            "type": "link",
+            "label": "Gotchas",
+            "href": "/Reference/gotchas",
+            "docId": "Reference/gotchas"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/category/Reference"
+      },
+      {
+        "type": "category",
+        "label": "Cloud",
+        "items": [
+          {
+            "type": "link",
+            "label": "Cloud Authentication",
+            "href": "/Cloud/auth",
+            "docId": "Cloud/auth"
+          },
+          {
+            "type": "link",
+            "label": "Custom Images for Runner",
+            "href": "/Cloud/custom_images",
+            "docId": "Cloud/custom_images"
+          },
+          {
+            "type": "link",
+            "label": "Arm based machines",
+            "href": "/Cloud/Arm based machines",
+            "docId": "Cloud/Arm based machines"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/Cloud/"
+      },
+      {
+        "type": "link",
+        "label": "Privacy",
+        "href": "/Privacy/Privacy Policy",
+        "docId": "Privacy/Privacy Policy"
+      },
+      {
+        "type": "link",
+        "label": "Terms of Service",
+        "href": "/Terms of Service",
+        "docId": "Terms of Service"
+      }
+    ]
+  },
+  "docs": {
+    "blog/index": {
+      "id": "blog/index",
+      "title": "Coming soon",
+      "description": ""
+    },
+    "Cloud/Arm based machines": {
+      "id": "Cloud/Arm based machines",
+      "title": "Arm based machines",
+      "description": "A guide to Nebari's cost estimate tool",
+      "sidebar": "sidebar"
+    },
+    "Cloud/auth": {
+      "id": "Cloud/auth",
+      "title": "Cloud Authentication",
+      "description": "Google Cloud Platform",
+      "sidebar": "sidebar"
+    },
+    "Cloud/custom_images": {
+      "id": "Cloud/custom_images",
+      "title": "Custom Images for Runner",
+      "description": "You can use custom images for your runners as well. One use case for that",
+      "sidebar": "sidebar"
+    },
+    "Cloud/index": {
+      "id": "Cloud/index",
+      "title": "Cloud",
+      "description": "",
+      "sidebar": "sidebar"
+    },
+    "Cloud/using_dask": {
+      "id": "Cloud/using_dask",
+      "title": "Working with big data using Dask",
+      "description": "Introduction to Dask"
+    },
+    "Privacy/Privacy Policy": {
+      "id": "Privacy/Privacy Policy",
+      "title": "Privacy Policy",
+      "description": "Your privacy is important to us. It is Aktech Labs' policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, Cirun.io, and other sites we own and operate.",
+      "sidebar": "sidebar"
+    },
+    "Quickstart": {
+      "id": "Quickstart",
+      "title": "Welcome to Cirun's documentation",
+      "description": "- Login to",
+      "sidebar": "sidebar"
+    },
+    "Reference/examples": {
+      "id": "Reference/examples",
+      "title": "Cirun.yml Examples",
+      "description": "Google Cloud Platform",
+      "sidebar": "sidebar"
+    },
+    "Reference/Fallback": {
+      "id": "Reference/Fallback",
+      "title": "Fallback Runners in case of unavailability",
+      "description": "It might happen sometimes that the runner creation fails even though",
+      "sidebar": "sidebar"
+    },
+    "Reference/gotchas": {
+      "id": "Reference/gotchas",
+      "title": "Gotchas",
+      "description": "No Runner matching labels",
+      "sidebar": "sidebar"
+    },
+    "Reference/yaml": {
+      "id": "Reference/yaml",
+      "title": "Cirun configuration",
+      "description": "A guide to help you in configuration of Cirun..",
+      "sidebar": "sidebar"
+    },
+    "Terms of Service": {
+      "id": "Terms of Service",
+      "title": "Terms of Service",
+      "description": "These Terms of Service govern your use of the website located at Cirun.io and any related services provided by Aktech Labs.",
+      "sidebar": "sidebar"
+    }
+  }
+}

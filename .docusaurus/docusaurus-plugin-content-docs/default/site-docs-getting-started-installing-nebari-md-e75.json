@@ -1,0 +1,30 @@
+{
+  "unversionedId": "Reference/installing-nebari",
+  "id": "Reference/installing-nebari",
+  "title": "Cirun configuration",
+  "description": "A guide to help you in configuration of Cirun..",
+  "source": "@site/docs/Reference/yaml.md",
+  "sourceDirName": "Reference",
+  "slug": "/Reference/installing-nebari",
+  "permalink": "/Reference/installing-nebari",
+  "draft": false,
+  "editUrl": "https://github.com/nebari-dev/nebari/tree/main/docs/docs/Reference/yaml.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "title": "Cirun configuration",
+    "description": "A guide to help you in configuration of Cirun.."
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Reference",
+    "permalink": "/category/Reference"
+  },
+  "next": {
+    "title": "Choosing a deployment platform",
+    "permalink": "/Reference/deploy"
+  }
+}

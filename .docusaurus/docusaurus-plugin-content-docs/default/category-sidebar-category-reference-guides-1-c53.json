@@ -1,0 +1,19 @@
+{
+  "title": "Reference",
+  "description": "Nitty-gritty technical descriptions of how Nebari works. ",
+  "keywords": [
+    "reference"
+  ],
+  "slug": "category/reference",
+  "permalink": "/category/reference",
+  "navigation": {
+    "previous": {
+      "title": "Privacy Policy",
+      "permalink": "/explanations/Privacy Policy"
+    },
+    "next": {
+      "title": "Privacy Policy",
+      "permalink": "/references/Privacy Policy"
+    }
+  }
+}

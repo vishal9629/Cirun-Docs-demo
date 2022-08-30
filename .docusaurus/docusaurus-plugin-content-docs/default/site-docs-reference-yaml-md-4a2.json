@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Reference/yaml",
+  "id": "Reference/yaml",
+  "title": "Cirun configuration",
+  "description": "A guide to help you in configuration of Cirun..",
+  "source": "@site/docs/Reference/yaml.md",
+  "sourceDirName": "Reference",
+  "slug": "/Reference/yaml",
+  "permalink": "/Reference/yaml",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Cirun configuration",
+    "description": "A guide to help you in configuration of Cirun.."
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Reference",
+    "permalink": "/category/Reference"
+  },
+  "next": {
+    "title": "Fallback Runners in case of unavailability",
+    "permalink": "/Reference/Fallback"
+  }
+}

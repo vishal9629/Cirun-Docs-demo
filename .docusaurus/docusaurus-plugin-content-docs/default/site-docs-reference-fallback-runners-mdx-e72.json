@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Reference/Fallback",
+  "id": "Reference/Fallback",
+  "title": "Fallback Runners in case of unavailability",
+  "description": "It might happen sometimes that the runner creation fails even though",
+  "source": "@site/docs/Reference/fallback_runners.mdx",
+  "sourceDirName": "Reference",
+  "slug": "/Reference/Fallback",
+  "permalink": "/Reference/Fallback",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "Fallback"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Cirun configuration",
+    "permalink": "/Reference/yaml"
+  },
+  "next": {
+    "title": "Cirun.yml Examples",
+    "permalink": "/Reference/examples"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "how-tos/nebari-aws",
+  "id": "how-tos/nebari-aws",
+  "title": "Deploy Nebari on AWS",
+  "description": "A basic Privacy Policy of how to deploy Nebari on AWS",
+  "source": "@site/docs/how-tos/nebari-aws.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/nebari-aws",
+  "permalink": "/how-tos/nebari-aws",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "nebari-aws",
+    "title": "Deploy Nebari on AWS",
+    "description": "A basic Privacy Policy of how to deploy Nebari on AWS"
+  }
+}

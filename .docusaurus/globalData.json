@@ -1,0 +1,104 @@
+{
+  "docusaurus-lunr-search": {
+    "default": {
+      "fileNames": {
+        "searchDoc": "search-doc-1661884073086.json",
+        "lunrIndex": "lunr-index-1661884073086.json"
+      }
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "Quickstart",
+          "docs": [
+            {
+              "id": "blog/index",
+              "path": "/blog/"
+            },
+            {
+              "id": "Cloud/Arm based machines",
+              "path": "/Cloud/Arm based machines",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "Cloud/auth",
+              "path": "/Cloud/auth",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "Cloud/custom_images",
+              "path": "/Cloud/custom_images",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "Cloud/index",
+              "path": "/Cloud/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "Cloud/using_dask",
+              "path": "/Cloud/using_dask"
+            },
+            {
+              "id": "Privacy/Privacy Policy",
+              "path": "/Privacy/Privacy Policy",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "Quickstart",
+              "path": "/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "Reference/examples",
+              "path": "/Reference/examples",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "Reference/Fallback",
+              "path": "/Reference/Fallback",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "Reference/gotchas",
+              "path": "/Reference/gotchas",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "Reference/yaml",
+              "path": "/Reference/yaml",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "Terms of Service",
+              "path": "/Terms of Service",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "category/Reference",
+              "path": "/category/Reference",
+              "sidebar": "sidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "sidebar": {
+              "link": {
+                "path": "/",
+                "label": "Quickstart"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

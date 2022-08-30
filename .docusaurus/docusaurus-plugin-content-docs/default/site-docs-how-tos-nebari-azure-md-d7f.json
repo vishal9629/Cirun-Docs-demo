@@ -1,0 +1,18 @@
+{
+  "unversionedId": "how-tos/nebari-azure",
+  "id": "how-tos/nebari-azure",
+  "title": "Deploy Nebari on Azure",
+  "description": "A basic Privacy Policy of how to deploy Nebari on Azure",
+  "source": "@site/docs/how-tos/nebari-azure.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/nebari-azure",
+  "permalink": "/how-tos/nebari-azure",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "nebari-azure",
+    "title": "Deploy Nebari on Azure",
+    "description": "A basic Privacy Policy of how to deploy Nebari on Azure"
+  }
+}

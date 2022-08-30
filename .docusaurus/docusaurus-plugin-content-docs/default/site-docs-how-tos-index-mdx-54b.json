@@ -1,0 +1,14 @@
+{
+  "unversionedId": "how-tos/index",
+  "id": "how-tos/index",
+  "title": "Nebari How-to's",
+  "description": "Welcome to Nebari!",
+  "source": "@site/docs/how-tos/index.mdx",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/",
+  "permalink": "/how-tos/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

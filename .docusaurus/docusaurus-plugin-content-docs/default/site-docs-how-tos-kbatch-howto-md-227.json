@@ -1,0 +1,18 @@
+{
+  "unversionedId": "how-tos/kbatch-howto",
+  "id": "how-tos/kbatch-howto",
+  "title": "Submit batch jobs with kbatch",
+  "description": "Using kbatch to submit batch jobs",
+  "source": "@site/docs/how-tos/kbatch-howto.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/kbatch-howto",
+  "permalink": "/how-tos/kbatch-howto",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "kbatch-howto",
+    "title": "Submit batch jobs with kbatch",
+    "description": "Using kbatch to submit batch jobs"
+  }
+}

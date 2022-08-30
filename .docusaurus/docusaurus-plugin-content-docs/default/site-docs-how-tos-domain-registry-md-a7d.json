@@ -1,0 +1,18 @@
+{
+  "unversionedId": "how-tos/domain-registry",
+  "id": "how-tos/domain-registry",
+  "title": "Setup Nebari domain registry",
+  "description": "Setting a custom DNS Domain Registry",
+  "source": "@site/docs/how-tos/domain-registry.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/domain-registry",
+  "permalink": "/how-tos/domain-registry",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "domain-registry",
+    "title": "Setup Nebari domain registry",
+    "description": "Setting a custom DNS Domain Registry"
+  }
+}

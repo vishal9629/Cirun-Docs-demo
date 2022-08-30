@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Reference/Fallback",
+  "id": "Reference/Fallback",
+  "title": "Fallback Runners in case of unavailability",
+  "description": "It might happen sometimes that the runner creation fails even though",
+  "source": "@site/docs/Reference/fackback_runners.mdx",
+  "sourceDirName": "Reference",
+  "slug": "/Reference/Fallback",
+  "permalink": "/Reference/Fallback",
+  "draft": false,
+  "editUrl": "https://github.com/nebari-dev/nebari/tree/main/docs/docs/Reference/fackback_runners.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "Fallback"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Cirun configuration",
+    "permalink": "/Reference/installing-nebari"
+  },
+  "next": {
+    "title": "Supported Cloud Providers",
+    "permalink": "/Reference/cloud-providers"
+  }
+}

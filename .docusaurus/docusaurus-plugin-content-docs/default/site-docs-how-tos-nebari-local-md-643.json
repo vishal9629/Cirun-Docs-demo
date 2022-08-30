@@ -1,0 +1,17 @@
+{
+  "unversionedId": "how-tos/nebari-local",
+  "id": "how-tos/nebari-local",
+  "title": "Deploy Nebari on an existing Kubernetes infrastructure",
+  "description": "",
+  "source": "@site/docs/how-tos/nebari-local.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/nebari-local",
+  "permalink": "/how-tos/nebari-local",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "nebari-local",
+    "title": "Deploy Nebari on an existing Kubernetes infrastructure"
+  }
+}

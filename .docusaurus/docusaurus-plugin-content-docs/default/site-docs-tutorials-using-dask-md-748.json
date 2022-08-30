@@ -1,0 +1,31 @@
+{
+  "unversionedId": "Cloud/using_dask",
+  "id": "Cloud/using_dask",
+  "title": "Working with big data using Dask",
+  "description": "Introduction to Dask",
+  "source": "@site/docs/Cloud/using_dask.md",
+  "sourceDirName": "Cloud",
+  "slug": "/Cloud/using_dask",
+  "permalink": "/Cloud/using_dask",
+  "draft": false,
+  "editUrl": "https://github.com/nebari-dev/nebari/tree/main/docs/docs/Cloud/using_dask.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "using_dask",
+    "title": "Working with big data using Dask",
+    "description": "Introduction to Dask"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Creating a new environment on Nebari",
+    "permalink": "/Cloud/creating-new-environments"
+  },
+  "next": {
+    "title": "Nebari How-to's",
+    "permalink": "/how-tos/"
+  }
+}

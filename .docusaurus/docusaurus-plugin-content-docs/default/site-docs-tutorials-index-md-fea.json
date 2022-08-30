@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Cloud/index",
+  "id": "Cloud/index",
+  "title": "Cloud",
+  "description": "Welcome to Nebari!",
+  "source": "@site/docs/Cloud/index.md",
+  "sourceDirName": "Cloud",
+  "slug": "/Cloud/",
+  "permalink": "/Cloud/",
+  "draft": false,
+  "editUrl": "https://github.com/nebari-dev/nebari/tree/main/docs/docs/Cloud/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Gotchas",
+    "permalink": "/Reference/gotchas"
+  },
+  "next": {
+    "title": "Using Visual Studio (VS) Code",
+    "permalink": "/Cloud/auth"
+  }
+}

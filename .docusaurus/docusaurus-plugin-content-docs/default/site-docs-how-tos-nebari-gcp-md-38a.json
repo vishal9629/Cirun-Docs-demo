@@ -1,0 +1,18 @@
+{
+  "unversionedId": "how-tos/nebari-gcp",
+  "id": "how-tos/nebari-gcp",
+  "title": "Deploy Nebari on GCP",
+  "description": "A basic Privacy Policy of how to deploy Nebari on GCP.",
+  "source": "@site/docs/how-tos/nebari-gcp.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/nebari-gcp",
+  "permalink": "/how-tos/nebari-gcp",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "nebari-gcp",
+    "title": "Deploy Nebari on GCP",
+    "description": "A basic Privacy Policy of how to deploy Nebari on GCP."
+  }
+}

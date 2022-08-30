@@ -1,0 +1,14 @@
+{
+  "unversionedId": "glossary",
+  "id": "glossary",
+  "title": "Nebari Glossary",
+  "description": "",
+  "source": "@site/docs/glossary.md",
+  "sourceDirName": ".",
+  "slug": "/glossary",
+  "permalink": "/glossary",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

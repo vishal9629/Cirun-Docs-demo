@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Reference/examples",
+  "id": "Reference/examples",
+  "title": "Cirun.yml Examples",
+  "description": "Google Cloud Platform",
+  "source": "@site/docs/Reference/examples.mdx",
+  "sourceDirName": "Reference",
+  "slug": "/Reference/examples",
+  "permalink": "/Reference/examples",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Cirun.yml Examples"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Fallback Runners in case of unavailability",
+    "permalink": "/Reference/Fallback"
+  },
+  "next": {
+    "title": "Gotchas",
+    "permalink": "/Reference/gotchas"
+  }
+}

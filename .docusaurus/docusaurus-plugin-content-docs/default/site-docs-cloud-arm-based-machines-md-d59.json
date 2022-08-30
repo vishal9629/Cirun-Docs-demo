@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Cloud/Arm based machines",
+  "id": "Cloud/Arm based machines",
+  "title": "Arm based machines",
+  "description": "A guide to Nebari's cost estimate tool",
+  "source": "@site/docs/Cloud/Arm based machines.md",
+  "sourceDirName": "Cloud",
+  "slug": "/Cloud/Arm based machines",
+  "permalink": "/Cloud/Arm based machines",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "Arm based machines",
+    "title": "Arm based machines",
+    "description": "A guide to Nebari's cost estimate tool"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Custom Images for Runner",
+    "permalink": "/Cloud/custom_images"
+  },
+  "next": {
+    "title": "Privacy Policy",
+    "permalink": "/Privacy/Privacy Policy"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "Cloud/auth copy",
+  "id": "Cloud/auth copy",
+  "title": "Cloud Authentication",
+  "description": "Google Cloud Platform",
+  "source": "@site/docs/Cloud/auth copy.md",
+  "sourceDirName": "Cloud",
+  "slug": "/Cloud/auth copy",
+  "permalink": "/Cloud/auth copy",
+  "draft": false,
+  "editUrl": "https://github.com/nebari-dev/nebari/tree/main/docs/docs/Cloud/auth copy.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

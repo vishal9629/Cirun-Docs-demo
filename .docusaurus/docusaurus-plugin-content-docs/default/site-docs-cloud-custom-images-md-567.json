@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Cloud/custom_images",
+  "id": "Cloud/custom_images",
+  "title": "Custom Images for Runner",
+  "description": "You can use custom images for your runners as well. One use case for that",
+  "source": "@site/docs/Cloud/custom_images.md",
+  "sourceDirName": "Cloud",
+  "slug": "/Cloud/custom_images",
+  "permalink": "/Cloud/custom_images",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Cloud Authentication",
+    "permalink": "/Cloud/auth"
+  },
+  "next": {
+    "title": "Arm based machines",
+    "permalink": "/Cloud/Arm based machines"
+  }
+}

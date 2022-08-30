@@ -1,0 +1,18 @@
+{
+  "unversionedId": "how-tos/nebari-hpc",
+  "id": "how-tos/nebari-hpc",
+  "title": "Deploy Nebari HPC on bare metal machines",
+  "description": "HPC-based Nebari deployments",
+  "source": "@site/docs/how-tos/nebari-hpc.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/nebari-hpc",
+  "permalink": "/how-tos/nebari-hpc",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "nebari-hpc",
+    "title": "Deploy Nebari HPC on bare metal machines",
+    "description": "HPC-based Nebari deployments"
+  }
+}

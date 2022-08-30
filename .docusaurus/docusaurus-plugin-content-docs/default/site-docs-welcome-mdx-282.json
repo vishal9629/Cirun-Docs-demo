@@ -1,0 +1,26 @@
+{
+  "unversionedId": "welcome",
+  "id": "welcome",
+  "title": "Welcome to Nebari's documentation",
+  "description": "- Login to",
+  "source": "@site/docs/",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "editUrl": "https://github.com/nebari-dev/nebari/tree/main/docs/docs/Quickstart.mdx
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "slug": "/",
+    "title": "Welcome to Cirun documentation"
+  },
+  "sidebar": "sidebar",
+  "next": {
+    "title": "Reference",
+    "permalink": "/category/Reference"
+  }
+}

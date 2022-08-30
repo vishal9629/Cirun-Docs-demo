@@ -1,0 +1,18 @@
+{
+  "unversionedId": "how-tos/nebari-do",
+  "id": "how-tos/nebari-do",
+  "title": "Deploy Nebari on Digital Ocean",
+  "description": "A basic Privacy Policy of how to deploy Nebari on Digital Ocean",
+  "source": "@site/docs/how-tos/nebari-do.md",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/nebari-do",
+  "permalink": "/how-tos/nebari-do",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "nebari-do",
+    "title": "Deploy Nebari on Digital Ocean",
+    "description": "A basic Privacy Policy of how to deploy Nebari on Digital Ocean"
+  }
+}

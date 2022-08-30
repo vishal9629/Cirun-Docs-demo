@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Reference/cloud-providers",
+  "id": "Reference/cloud-providers",
+  "title": "Cirun.yml Examples",
+  "description": "Google Cloud Platform",
+  "source": "@site/docs/Reference/cloud-providers.mdx",
+  "sourceDirName": "Reference",
+  "slug": "/Reference/cloud-providers",
+  "permalink": "/Reference/cloud-providers",
+  "draft": false,
+  "editUrl": "https://github.com/nebari-dev/nebari/tree/main/docs/docs/Reference/cloud-providers.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "title": "Cirun.yml Examples"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Fallback Runners in case of unavailability",
+    "permalink": "/Reference/Fallback"
+  },
+  "next": {
+    "title": "Cloud",
+    "permalink": "/Cloud/"
+  }
+}

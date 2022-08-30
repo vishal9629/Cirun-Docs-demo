@@ -1,0 +1,30 @@
+{
+  "unversionedId": "Reference/cloud-providers",
+  "id": "Reference/cloud-providers",
+  "title": "Supported Cloud Providers",
+  "description": "Guidance for selecting a deployment provider.",
+  "source": "@site/docs/Reference/cloud-providers.mdx",
+  "sourceDirName": "Reference",
+  "slug": "/Reference/cloud-providers",
+  "permalink": "/Reference/cloud-providers",
+  "draft": false,
+  "editUrl": "https://github.com/nebari-dev/nebari/tree/main/docs/docs/Reference/cloud-providers.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "title": "Supported Cloud Providers",
+    "description": "Guidance for selecting a deployment provider."
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Choosing a deployment platform",
+    "permalink": "/Reference/deploy"
+  },
+  "next": {
+    "title": "Cloud",
+    "permalink": "/Cloud/"
+  }
+}

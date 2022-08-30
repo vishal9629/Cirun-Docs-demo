@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Privacy/Privacy Policy",
+  "id": "Privacy/Privacy Policy",
+  "title": "Privacy Policy",
+  "description": "Your privacy is important to us. It is Aktech Labs' policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, Cirun.io, and other sites we own and operate.",
+  "source": "@site/docs/Privacy/Privacy Policy.md",
+  "sourceDirName": "Privacy",
+  "slug": "/Privacy/Privacy Policy",
+  "permalink": "/Privacy/Privacy Policy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Arm based machines",
+    "permalink": "/Cloud/Arm based machines"
+  },
+  "next": {
+    "title": "Terms of Service",
+    "permalink": "/Terms of Service"
+  }
+}

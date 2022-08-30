@@ -1,0 +1,14 @@
+{
+  "unversionedId": "blog/coming-soon/index",
+  "id": "blog/coming-soon/index",
+  "title": "Coming soon",
+  "description": "",
+  "source": "@site/docs/blog/coming-soon/index.md",
+  "sourceDirName": "blog/coming-soon",
+  "slug": "/blog/coming-soon/",
+  "permalink": "/blog/coming-soon/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

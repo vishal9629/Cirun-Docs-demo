@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Terms of Service",
+  "id": "Terms of Service",
+  "title": "Terms of Service",
+  "description": "These Terms of Service govern your use of the website located at Cirun.io and any related services provided by Aktech Labs.",
+  "source": "@site/docs/Terms of Service.mdx",
+  "sourceDirName": ".",
+  "slug": "/Terms of Service",
+  "permalink": "/Terms of Service",
+  "draft": false,
+  "editUrl": "https://github.com/nebari-dev/nebari/tree/main/docs/docs/Terms of Service.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Privacy Policy",
+    "permalink": "/Privacy/Privacy Policy"
+  }
+}

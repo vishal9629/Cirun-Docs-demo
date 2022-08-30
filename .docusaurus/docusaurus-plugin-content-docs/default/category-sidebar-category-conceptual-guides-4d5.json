@@ -1,0 +1,19 @@
+{
+  "title": "Conceptual Guides",
+  "description": "Big-picture explanations of higher-level Nebari concepts. Most useful for building understanding of a particular topic.",
+  "keywords": [
+    "conceptual-guides"
+  ],
+  "slug": "category/conceptual-guides",
+  "permalink": "/category/conceptual-guides",
+  "navigation": {
+    "previous": {
+      "title": "Setup Nebari domain registry",
+      "permalink": "/how-tos/domain-registry"
+    },
+    "next": {
+      "title": "Privacy Policy",
+      "permalink": "/explanations/Privacy Policy"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "Cloud/custom_images",
+  "id": "Cloud/custom_images",
+  "title": "Arm based machines",
+  "description": "You can use custom images for your runners as well",
+  "source": "@site/docs/Cloud/custom_images.md",
+  "sourceDirName": "Cloud",
+  "slug": "/Cloud/custom_images",
+  "permalink": "/Cloud/custom_images",
+  "draft": false,
+  "editUrl": "https://github.com/nebari-dev/nebari/tree/main/docs/docs/Cloud/custom_images.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "custom_images",
+    "title": "Arm based machines",
+    "description": "You can use custom images for your runners as well"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Cloud Authentication",
+    "permalink": "/Cloud/auth"
+  },
+  "next": {
+    "title": "Arm based machines",
+    "permalink": "/Cloud/Arm based machines"
+  }
+}

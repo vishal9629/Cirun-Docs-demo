@@ -1,0 +1,14 @@
+{
+  "unversionedId": "explanations/overview",
+  "id": "explanations/overview",
+  "title": "overview",
+  "description": "",
+  "source": "@site/docs/explanations/overview.md",
+  "sourceDirName": "explanations",
+  "slug": "/explanations/overview",
+  "permalink": "/explanations/overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
