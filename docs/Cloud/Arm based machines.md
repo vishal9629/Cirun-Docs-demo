@@ -1,7 +1,7 @@
 ---
 id: Arm based machines
 title: Arm based machines
-description: A guide to Nebari's cost estimate tool
+description: Overview on how to use Cirun.io for Arm based machines
 ---
 
 # Arm based machines
