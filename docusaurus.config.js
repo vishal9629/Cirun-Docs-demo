@@ -122,7 +122,7 @@ const config = {
         // Public API key: it is safe to commit it
         apiKey: "f13161ec6d133b5101ac05c84596bf4a",
 
-        indexName: "runners",
+        indexName: "runners fallback",
 
         // Optional: see doc section below
         contextualSearch: true,
