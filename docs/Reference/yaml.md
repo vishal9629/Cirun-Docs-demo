@@ -210,16 +210,15 @@ The team is a group of users in an organization, read more about it here:
 run_only_when_triggered_by: my-awesome-github-organisation-team
 ```
 
-```{admonition} Organization wide settings priority
-:class: note
-
+:::note Organization wide settings priority
 For organizations, this setting can be controlled organization wide as well.
 
 This setting can be overriden by the `.cirun.global.yml` config in the organization. In
 other words the configuration value for `run_only_when_triggered_by` in the
 `.cirun.global.yml` (in the repository named `.cirun`: `<org_name>/.cirun/.cirun.global.yml`) will take
 priority over repository setting (in `.cirun.yml`).
-```
+
+:::
 
 # Cirun Global Configuration
 
