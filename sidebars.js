@@ -22,12 +22,14 @@ module.exports = {
     {
       type: "category",
       label: "Reference",
-      link: {
-        type: "generated-index",
-        title: "Reference",
-        slug: "category/Reference",
-        keywords: ["Reference"],
-      },
+      // link: {
+      //   type: "generated-index",
+      //   title: "Reference",
+      //   slug: "category/Reference",
+
+      //   keywords: ["Reference"],
+      // },
+      link: { type: "doc", id: "Reference/index" },
       items: [
         "Reference/yaml",
         "Reference/Fallback",

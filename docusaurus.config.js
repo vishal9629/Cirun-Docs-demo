@@ -13,6 +13,7 @@ const domain = "https://cirun.io";
 // custom Fields for the project
 const customFields = {
   copyright: `Copyright © ${new Date().getFullYear()} Cirun.io, Built with Docusaurus.`,
+  // indexBaseUrl: true,
   meta: {
     title: "Cirun.io",
     description:
@@ -104,7 +105,12 @@ const config = {
           {
             label: "Blog",
             position: "right",
-            to: "/Blog",
+            items: [
+              {
+                label: "Blog",
+                to: "/Blog",
+              },
+            ],
           },
 
           {
@@ -115,15 +121,15 @@ const config = {
           },
         ],
       },
-      algolia: {
-        // The application ID provided by Algolia
-        appId: "OIV4JKZ1OO",
+      // algolia: {
+      //   // The application ID provided by Algolia
+      //   appId: "OIV4JKZ1OO",
 
-        // Public API key: it is safe to commit it
-        apiKey: "0a0f574fee422993515fb7abb6184a43",
+      //   // Public API key: it is safe to commit it
+      //   apiKey: "0a0f574fee422993515fb7abb6184a43",
 
-        indexName: "netlify_64eb1cd6-2942-470a-aeb1-158276361d60_main_all",
-      },
+      //   indexName: "netlify_64eb1cd6-2942-470a-aeb1-158276361d60_main_all",
+      // },
       footer: {
         style: "dark",
         links: [
@@ -150,7 +156,7 @@ const config = {
             items: [
               {
                 label: "Blog",
-                to: "/Blog",
+                to: "blog/index",
               },
               {
                 label: "GitHub",
