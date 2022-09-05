@@ -122,21 +122,7 @@ const config = {
         // Public API key: it is safe to commit it
         apiKey: "0a0f574fee422993515fb7abb6184a43",
 
-        indexName: "cirun",
-
-        // Optional: see doc section below
-        contextualSearch: true,
-
-        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
-        externalUrlRegex: "external\\.com|domain\\.com",
-
-        // Optional: Algolia search parameters
-        searchParameters: {},
-
-        // Optional: path for search page that enabled by default (`false` to disable it)
-        searchPagePath: "search",
-
-        //... other Algolia params
+        indexName: "netlify_64eb1cd6-2942-470a-aeb1-158276361d60_main_all",
       },
       footer: {
         style: "dark",
