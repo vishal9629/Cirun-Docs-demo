@@ -117,12 +117,12 @@ const config = {
       },
       algolia: {
         // The application ID provided by Algolia
-        appId: "W8RUIV4PV4",
+        appId: "OIV4JKZ1OO",
 
         // Public API key: it is safe to commit it
-        apiKey: "f13161ec6d133b5101ac05c84596bf4a",
+        apiKey: "0a0f574fee422993515fb7abb6184a43",
 
-        indexName: "runners fallback",
+        indexName: "cirun",
 
         // Optional: see doc section below
         contextualSearch: true,
