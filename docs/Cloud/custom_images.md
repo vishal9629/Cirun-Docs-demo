@@ -23,10 +23,12 @@ runners.
 
 To use any AMI (Amazon Machine Image) in your `.cirun.yml`, you need two things:
 
-```{admonition} Note
+:::note
+
 1. The AMI ID for the runner in that region (default region is `eu-west-1`).
 2. Accept Terms and condition for the AMI.
-```
+
+:::
 
 Here are the steps to achieve the above.
 
@@ -52,19 +54,19 @@ Here are the steps to achieve the above.
 
 In the above photo we can see the AMI ID for "**NVIDIA Deep Learning AMI**" in the Ireland region (`eu-west-1`).
 
-```{note}
+:::note
 Pricing: This AMI is free to use, the pricing you see on the right is the price for the instance
 not for the AMI.
-```
+:::
 
 ### AWS Marketplace NVIDIA Deep Learning AMI `.cirun.yml`
 
-```{admonition} Note
-:class: error
+:::danger
+
 It is important to accept terms and conditions of the AMI you want to use, using
 the process described above, otherwise you'll not be able to provision the
 runner.
-```
+:::
 
 ```yaml
 # Self-Hosted Github Action Runners on AWS via Cirun.io

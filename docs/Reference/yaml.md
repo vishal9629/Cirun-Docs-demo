@@ -72,16 +72,16 @@ documentation for `gpu` names.
 gpu: nvidia-tesla-t4
 ```
 
-```{note}
+:::note
 This flag also installs nvidia-drivers in the given VM
-```
+:::
 
-```{note}
+:::note
 For using GPUs on AWS, we recommend using **NVIDIA Deep Learning AMI** from AWS
 Marketplace. See the Custom Images section for the documentation on how to use
 that. Also note this flag is not required for **NVIDIA Deep Learning AMI** image
 on AWS.
-```
+:::
 
 ### Instance Type: `instance_type`
 

@@ -1,9 +1,10 @@
 ---
 slug: /
-title: Welcome to Cirun's documentation
 ---
 
 # Quickstart
+
+Get Started with Cirun by going to Cirun.io <https://cirun.io>
 
 - Login to <https://cirun.io>
 - Click on Repositories Section on the left.

@@ -29,9 +29,9 @@ GitHub workflows fail immediately if there is no action runner available for you
 The first time you setup Cirun (first push to trigger cirun runner creation) there won't
 be a runner attached to your repository.
 
-```{admonition} Solution
+:::note Solution
 The solution to this is to try again (push again) after few minutes.
-```
+:::
 
 Cirun creates the runner the first time you push to your repository with
 the labels mentioned in the `.cirun.yml`, so that the next time the workflow
