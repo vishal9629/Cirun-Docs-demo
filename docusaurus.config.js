@@ -2,8 +2,8 @@
 // @ts-check
 
 // https://github.com/FormidableLabs/prism-react-renderer/tree/master/src/themes
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const lightCodeTheme = require("prism-react-renderer/themes/nightOwlLight");
+const darkCodeTheme = require("prism-react-renderer/themes/nightOwl");
 
 // Adding reusable information
 const githubOrgUrl = "https://github.com/AktechLabs";
@@ -105,12 +105,7 @@ const config = {
           {
             label: "Blog",
             position: "right",
-            items: [
-              {
-                label: "Blog",
-                to: "/Blog",
-              },
-            ],
+            to: "/Blog",
           },
 
           {
@@ -121,15 +116,6 @@ const config = {
           },
         ],
       },
-      // algolia: {
-      //   // The application ID provided by Algolia
-      //   appId: "OIV4JKZ1OO",
-
-      //   // Public API key: it is safe to commit it
-      //   apiKey: "0a0f574fee422993515fb7abb6184a43",
-
-      //   indexName: "netlify_64eb1cd6-2942-470a-aeb1-158276361d60_main_all",
-      // },
       footer: {
         style: "dark",
         links: [
@@ -149,6 +135,10 @@ const config = {
                 label: "Twitter",
                 href: "https://twitter.com/CirunHQ",
               },
+              {
+                label: "Slack",
+                href: "https://app.slack.com/client/T01QANJ1SJF/D03PWAMAMNJ/rimeto_profile/U01R0BF6K08",
+              },
             ],
           },
           {
@@ -156,7 +146,7 @@ const config = {
             items: [
               {
                 label: "Blog",
-                to: "blog/index",
+                to: "/Blog",
               },
               {
                 label: "GitHub",
